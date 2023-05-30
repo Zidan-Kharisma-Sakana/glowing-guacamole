@@ -24,4 +24,4 @@ Penyebab penurunan performa react terutama muncul dari unnecessary render. Salah
 - Sangat berguna untuk meningkatkan productivity
 
 # Kesimpulan:
-Berdasarkan ketiga pendekatan itu, saya memilih menggunakan React Hook Form karena paling efektif mencegah rerender terjadi# glowing-guacamole
+Berdasarkan ketiga pendekatan itu, saya memilih menggunakan React Hook Form karena paling efektif mencegah rerender terjadi
